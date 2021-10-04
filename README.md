@@ -1,3 +1,3 @@
-# Demo
+# Exercise
 
-Some description.
+Theses exercises are followed the videos.
