@@ -1,3 +1,3 @@
-# Exercise
+# Exercises
 
 Theses exercises are followed the videos.
